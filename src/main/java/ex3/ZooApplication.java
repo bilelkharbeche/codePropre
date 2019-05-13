@@ -15,7 +15,6 @@ public class ZooApplication {
 		zoo.addAnimal(new Animal("Python", "SERPENT", "CARNIVORE"));
 
 		zoo.afficherListeAnimaux();
-		zoo.calculerKgsNourritureParJour();
 	}
 
 }
